@@ -1,4 +1,4 @@
-#Solitaire made with JavaFX
+#This solitaire game was made with javafx
 
 ### Installation
 Set up with visual studio code then follow java fx guide for setting up with gradleW
