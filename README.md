@@ -1,17 +1,11 @@
-## Java Solitaire
-*A game made with JavaFX*
+#Solitaire made with JavaFX
 
 ### Installation
-1. `requirements:` At least Java 11 installed.
-3. `setup:`
-<br/>2.1. **Intellij** -> Open the file in the IDE and execute \*MainApp\* file.
-<br/>2.2. **Terminal** -> Inside of project folder, type `./gradlew run`.
-
+Set up with visual studio code then follow java fx guide for setting up with gradleW
 ### Game Rules
 <pre>
-This game introduces a deck mechanics (stack of cards), whose you have to manipulate
-(I mean, move the cards around) between the seven under decks and the four single type ones.
-Once your deck types (every) reach the King card, you win.
+This game introduces a deck where you have to move the cards to the 7 decks and the four single type ones.
+Once the decks reach king you will win the game.
 </pre>
 
 ### Card Rules
